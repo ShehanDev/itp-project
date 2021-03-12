@@ -1,0 +1,4 @@
+Food     price
+lunch      150.00
+dinner      50.00
+breakfirst  100.00
